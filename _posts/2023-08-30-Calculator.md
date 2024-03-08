@@ -1,11 +1,11 @@
 ---
-title: JS Calculator
-comments: true
-hide: true
-layout: default
-description: A common way to become familiar with a language is to build a calculator.  This calculator shows off button with actions.
+toc: true
+comments: false
+layout: post
+title: Calculator MD
+description: Grab of the Calculator from APCSA repo.
 categories: [C7.0]
-courses: { csse: {week: 2}, csp: {week: 2, categories: [2.C]}, csa: {week: 2} }
+courses: { csse: {week: 0}, csp: {week: 2, categories: [2.C]}, csa: {week: 2} }
 type: ccc
 ---
 
@@ -199,5 +199,3 @@ vantaInstance({
   gyroControls: false
 });
 </script>
-
-
