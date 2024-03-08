@@ -1,9 +1,9 @@
-title: Teacher 2.0
+title: student2
 description: "August 2023 to June 2024"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "teacher_portfolio"
-baseurl: "/teacher_portfolio"
+owner_name: Kailyn Sanford
+github_username: kailynsanford
+github_repo: "student2"
+baseurl: "/student2"
 future: true
 remote_theme: jekyll/minima
 minima:
