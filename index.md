@@ -160,7 +160,7 @@ hide: true
     // adjust sprite size for high pixel density devices
     const scale = window.devicePixelRatio;
     const sprite = document.querySelector(".sprite");
-    sprite.style.transform = `scale(${10 * scale})`;
+    sprite.style.transform = `scale(${5 * scale})`;
     mario.startResting();
   });
 </script>
